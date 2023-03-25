@@ -1,4 +1,4 @@
-# Decrypting a message in BabyEncryption
+# Decrypting secret message in BabyEncryption
 
 ## Description
 In this challange, there is a python script, that encryptes a message and a file that includes the encrypted message. And I will explain my own solution to decrypting this message.
