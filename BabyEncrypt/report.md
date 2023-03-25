@@ -4,7 +4,7 @@
 In this challange, there is a python script, that encryptes a message and a file that includes the encrypted message. And I will explain my own solution to decrypting this message.
 
 ## Steps to Reproduce
-The following steps indicate a proof of concept outlined in one(1) step to reproduce and execute the issue.
+The following steps indicate a proof of concept outlined in three(3) steps to reproduce and execute the issue.
 
 **Step 1:**
 Download the python script in this repository called `baby-encrypt.py`
