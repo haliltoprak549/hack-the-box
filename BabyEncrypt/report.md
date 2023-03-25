@@ -147,4 +147,5 @@ And we found the flag.
 
 
 ## Impact
+This can give us hidden passwords or user ID's by decrypting the encrypted values which can lead to an account takeover, access control vulnerabilities.
 
