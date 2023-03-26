@@ -65,7 +65,7 @@ Browse to the downloaded file. Unzip it with `unzip LoveTok.zip`, provide the zi
 Review the `TimeController.php` and `TimeModel.php` source codes.
 
 **TimeController.php** looks like this:
-```
+```php
 <?php
 class TimeController
 {
@@ -78,7 +78,7 @@ class TimeController
 }
 ```
 It gets the format parameter here, and sends to the TimeModal class without any sanitization. If we examine the **TimeModal.php** file, it looks like this:
-```
+```php
 <?php
 class TimeModel
 {
